@@ -26,7 +26,7 @@ import LogoTitle from '@/components/templates/LogoTitle.vue';
       </router-link>
     </div>
   </div>
-  <logo-title />
+  <!-- <logo-title /> -->
 </template>
 <style scoped>
 .mb-2 {
