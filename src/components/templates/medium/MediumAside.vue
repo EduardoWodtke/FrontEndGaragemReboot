@@ -6,7 +6,7 @@ import LogoTitle from '@/components/templates/LogoTitle.vue';
     <logo-title class="mb-2" />
     <div class="divider" />
     <div class="menu">
-      <router-link to="/">
+      <router-link to="/perfil">
         <i class="icon mdi mdi-account-circle-outline" /> Perfil
       </router-link>
       <router-link to="/Acessorios">

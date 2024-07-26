@@ -37,7 +37,7 @@ onBeforeRouteUpdate(() => {
       <i class="mdi mdi-home-outline" />
       Home
     </RouterLink>
-    <RouterLink to="/">
+    <RouterLink to="/perfil">
       <i class="mdi mdi-account-circle-outline" />
       Perfil
     </RouterLink>
